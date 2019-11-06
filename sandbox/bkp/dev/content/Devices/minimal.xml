@@ -1,0 +1,10 @@
+<device>
+	<publish time="151023831"/>
+	<config status="active" orient="landscape"/> 
+	<assoc owner="walmart" store="walmart_rivergate"/>
+	<command ttl="5" command="na"/>	
+	<alert status="false">
+		<title>na</title>
+		<message>na</message>
+	</alert>
+</device>

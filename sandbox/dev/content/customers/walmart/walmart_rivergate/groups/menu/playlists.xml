@@ -1,0 +1,30 @@
+<playlist id="151106990022">
+	<overlay>
+		<name>filename</name>
+		<custom>false</custom>
+	</overlay>
+	<transition>
+		<name>filename</name>
+		<custom>false</custom>
+	</transition>
+	<filter>
+		<start_date>1101</start_date>
+		<end_date>0101</end_date>
+		<start_day>mon</start_day>
+		<end_day>fri</end_day>
+		<start_time>0900</start_time>
+		<end_time>1100</end_time>
+	</filter>
+	<slides>
+		<slide id="1511061320">
+			<template>christmas</template>
+			<custom>false</custom>
+			<duration>10</duration>
+		</slide>
+		<slide id="1601241146">
+			<template>groundhog_day</template>
+			<custom>false</custom>
+			<duration>10</duration>
+		</slide>
+	</slides>
+</playlist>

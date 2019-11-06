@@ -1,0 +1,250 @@
+<XML>
+	
+	<tiers>
+		
+		<tier1>
+			<label>Display label for tier 1</label>
+			<isActive>false</isActive>
+			<size1>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size1>
+			<size2>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size2>
+			<size3>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size3>
+			<size4>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size4>
+			<size5>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size5>
+		</tier1>
+		
+		<tier2>
+			<label>Display label for tier 2</label>
+			<isActive>false</isActive>
+			<size1>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size1>
+			<size2>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size2>
+			<size3>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size3>
+			<size4>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size4>
+			<size5>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size5>
+		</tier2>
+		
+		<tier3>
+			<label>Display label for tier 3</label>
+			<isActive>false</isActive>
+			<size1>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size1>
+			<size2>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size2>
+			<size3>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size3>
+			<size4>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size4>
+			<size5>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size5>
+		</tier3>
+		
+		<tier4>
+			<label>Display label for tier 4</label>
+			<isActive>false</isActive>
+			<size1>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size1>
+			<size2>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size2>
+			<size3>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size3>
+			<size4>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size4>
+			<size5>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size5>
+		</tier4>
+		
+		<tier5>
+			<label>Display label for tier 5</label>
+			<isActive>false</isActive>
+			<size1>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size1>
+			<size2>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size2>
+			<size3>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size3>
+			<size4>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size4>
+			<size5>
+				<dollars1></dollars1>
+				<cents1></cents1>
+				<saleDollars1></saleDollars1>
+				<saleCents1></saleCents1>
+			</size5>
+		</tier5>
+		
+	</tiers>
+	
+	<products>
+		
+		<category name="flowers">
+			<label>Flowers</label>
+			
+			<subcategory name="hybrid">
+				<label>Hybrid</label>
+				<sizeLabels>
+					<total>4</total>
+					<label1>1/8 oz.</label1>
+					<label2>1/4 oz.</label2>
+					<label3>1/2 oz.</label3>
+					<label4>1 oz.</label4>
+					<label5></label5>
+				</sizeLabels>	
+						
+				<product>
+					<label>Juicy Fruit</label>
+					<isSpecial>false</isSpecial>
+					<isFeature>false</isFeature>
+					<priceTier>0</priceTier>
+					<shortDescription>A short description.</shortDescription>
+					<longDescription>A much longer description.</longDescription>
+					<aroma>Describe the flavor and aroma of the bud.</aroma>
+					<duration>Indicate approximate duration of the effect.</duration>
+					<indications>Describe possible indications for medical use.</indications>
+					<sensation>Describe the sensation of this bud.</sensation>
+					<thc>Amount of THC as a percentage.</thc>
+					<type>Describe the plant type.</type>
+					<photo>productNamePhoto.jpg</photo>
+					<size1>
+						<dollars1>20</dollars1>
+						<cents1>99</cents1>
+						<saleDollars1>18</saleDollars1>
+						<saleCents1>99</saleCents1>
+					</size1>
+					<size2>
+						<dollars1>30</dollars1>
+						<cents1>99</cents1>
+						<saleDollars1>28</saleDollars1>
+						<saleCents1>99</saleCents1>
+					</size2>
+					<size3>
+						<dollars1>40</dollars1>
+						<cents1>99</cents1>
+						<saleDollars1>38</saleDollars1>
+						<saleCents1>99</saleCents1>
+					</size3>
+					<size4>
+						<dollars1>50</dollars1>
+						<cents1>99</cents1>
+						<saleDollars1>48</saleDollars1>
+						<saleCents1>99</saleCents1>
+					</size4>
+					<size5>
+						<dollars1></dollars1>
+						<cents1></cents1>
+						<saleDollars1></saleDollars1>
+						<saleCents1></saleCents1>
+					</size5>
+				</product>
+				
+			</subcategory>
+			
+		</category>
+		
+	</products>
+	
+</XML>

@@ -1,0 +1,21 @@
+<data>
+  <player>
+    <identifier>null</identifier>
+    <pin>6514</pin>
+    <status>new</status>
+    <playerName>Enter sign name</playerName>
+  </player>
+  <venue>
+    <venueName>Enter store name</venueName>
+    <venueCode>Enter store ID</venueCode>
+    <address1>Enter store address</address1>
+    <address2>Enter store address</address2>
+    <city>Enter store city</city>
+    <usState>Enter store state</usState>
+    <zip>Enter store zip code</zip>
+    <phone>Enter store phone number</phone>
+    <email>Enter store address</email>
+    <facebook>Enter store facebook account</facebook>
+    <twitter>Enter store twitter handle</twitter>
+  </venue>
+</data>

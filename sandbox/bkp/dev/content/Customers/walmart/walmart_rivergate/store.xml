@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+	
+	<lastupdate>1510231952</lastupdate>
+	<id>walmart_rivergate</id>
+	<label>Wal•Mart Rivergate</label>
+	<tagline>Lot's of Cheap Shit in One Large, Depressing Concrete Box!</tagline>
+	
+	<type>dispensary</type>
+	
+	<location>
+		<country>
+			<id>usa</id>
+			<label>United States of America</label>
+		</country>
+		<state>
+			<id>co</id>
+			<label>Colorado</label>
+		</state>
+		<city>
+			<id>denver</id>
+			<label>Denver</label>
+		</city>
+		<district>
+			<id>downtown</id>
+			<label>Downtown</label>
+		</district>
+	</location>
+	
+	<contact>
+		<address1>907 Gillock St.</address1>
+		<address2>PO Box 666</address2>
+		<city>Nashville</city>
+		<state>TN</state>
+		<zip>37216</zip>
+		<phone>615-482-2531</phone>
+		<email>rivergatecrap@walmart.com</email>
+		<facebook>WalmartRivergate</facebook>
+		<twitter>@walmartrivergate</twitter>
+		<instagram>na</instagram>
+	</contact>
+
+	<hours>
+		<mon>
+			<open>
+				<hour>9</hour>
+				<min>00</min>
+				<meridian>am</meridian>
+			</open>
+			<close>
+				<hour>10</hour>
+				<min>00</min>
+				<meridian>pm</meridian>
+			</close>
+		</mon>
+		<tues>
+			<open>
+				<hour>9</hour>
+				<min>00</min>
+				<meridian>am</meridian>
+			</open>
+			<close>
+				<hour>10</hour>
+				<min>00</min>
+				<meridian>pm</meridian>
+			</close>
+		</tues>
+		<wed>
+			<open>
+				<hour>9</hour>
+				<min>00</min>
+				<meridian>am</meridian>
+			</open>
+			<close>
+				<hour>10</hour>
+				<min>00</min>
+				<meridian>pm</meridian>
+			</close>
+		</wed>
+		<thu>
+			<open>
+				<hour>9</hour>
+				<min>00</min>
+				<meridian>am</meridian>
+			</open>
+			<close>
+				<hour>10</hour>
+				<min>00</min>
+				<meridian>pm</meridian>
+			</close>
+		</thu>
+		<fri>
+			<open>
+				<hour>9</hour>
+				<min>00</min>
+				<meridian>am</meridian>
+			</open>
+			<close>
+				<hour>10</hour>
+				<min>00</min>
+				<meridian>pm</meridian>
+			</close>
+		</fri>
+		<sat>
+			<open>
+				<hour>9</hour>
+				<min>00</min>
+				<meridian>am</meridian>
+			</open>
+			<close>
+				<hour>10</hour>
+				<min>00</min>
+				<meridian>pm</meridian>
+			</close>
+		</sat>
+		<sun>
+			<open>
+				<hour>9</hour>
+				<min>00</min>
+				<meridian>am</meridian>
+			</open>
+			<close>
+				<hour>10</hour>
+				<min>00</min>
+				<meridian>pm</meridian>
+			</close>
+		</sun>
+	</hours>
+	
+</store>

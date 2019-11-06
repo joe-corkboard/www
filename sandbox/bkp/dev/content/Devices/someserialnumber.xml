@@ -1,0 +1,41 @@
+<device>
+	
+	<lastupdate>151023831</lastupdate>
+	<status>active</status>
+	<!-- POSSIBLE STATUSES:
+		active (normal operation)
+		trial (display watermark over slides)
+		billing (display warning badge over slides)
+		disabled (halt slides, display warning)
+	-->
+
+	<association>
+		<!-- MIRRORED IN FILE STRUCTURE ON SERVER -->
+		<owner id="walmart" />
+		<store id="walmart_rivergate" />
+	</association>
+	
+	<location>
+		<id>counter</id>
+		<label>Behind the counter</label>
+	</location>
+	
+	<configuration>
+		<orientation>landscape</orientation>
+		<interactive>true</interactive>
+	</configuration>
+	
+	<alert>
+		<lastupdate>1510230930</lastupdate>
+		<status>false</status>
+		<title>na</title>
+		<message>na</message>
+	</alert>
+	
+	<command>
+		<lastupdate>1510230930</lastupdate>
+		<ttl>5</ttl> <!-- MINUTES -->
+		<command>na</command>
+	</command>
+
+</device>

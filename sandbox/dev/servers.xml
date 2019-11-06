@@ -1,0 +1,21 @@
+<servers>
+	
+	<server>
+		<name>Godaddy</name>
+		<url>http://www.budstv.org/sandboxes/dev/</url>
+		<region>ne</region>
+		<capacity>10</capacity>
+		<performance>5</performance>
+		<value>10</value>
+	</server>
+	
+	<server>
+		<name>Godaddy Backup</name>
+		<url>http://www1.budstv.org/sandboxes/dev/</url>
+		<region>se</region>
+		<capacity>7</capacity>
+		<performance>5</performance>
+		<value>7</value>
+	</server>
+	
+</servers>

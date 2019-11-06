@@ -1,0 +1,12 @@
+<health>
+	<!--
+		THESE ARE METRICS REPORTED FROM THE PLAYER, TO BE USED
+		BY THE ADMIN, DASHBOARDS, ETC.
+	-->
+	<lastupdate time="151026135423"/>
+	<versions>
+		<shell>1.0</shell>
+		<player>1.0</player>
+	</versions>
+	<playlist>playlist_1</playlist>
+</health>

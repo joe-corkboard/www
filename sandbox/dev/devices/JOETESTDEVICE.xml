@@ -1,0 +1,18 @@
+<device>
+	<publish time="1601231117" store="1601231815" playlist="1601231332" products="1601231332"/> 
+	<assoc owner="walmart" store="walmart_rivergate" group="menu"/>
+	<config status="active" orient="landscape" language="fr"/>
+	<command time="1511302036" ttl="1" action="wipe"/>
+	<alert status="false" type="message">
+		<title>
+			 <en>Happy Thanksgiving!</en>
+			 <es>¡Feliz Día de Gracias!</es>
+			 <fr>Joyeux Thanksgiving!</fr>
+		</title>
+		<message>
+			<en>Go eat you some turkey.</en>
+			<es>Ir a comer un poco de pavo.</es>
+			<fr>Aller manger de la dinde.</fr>
+		</message>
+	</alert>
+</device>
